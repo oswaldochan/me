@@ -64,7 +64,8 @@ body {
 
 .text {
     font-size: 15px;
-    text-align: justify
+    text-align: justify;
+    font-weight: normal;
 }
 
 .about {
